@@ -1,0 +1,5 @@
+main: dev.tehcn.nochatreport.NoChatReport
+name: NoChatReport
+version: 1.0.0
+api: spigot
+depend: [ ProtocolLib ]
